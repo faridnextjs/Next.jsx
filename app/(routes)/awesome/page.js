@@ -1,3 +1,4 @@
+// my-page.com/awesome
 export default function awesome() {
   return (
     <main>
